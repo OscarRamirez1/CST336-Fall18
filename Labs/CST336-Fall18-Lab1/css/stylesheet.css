@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: gray;
+}
+header, main, nav, footer{
+    text-align: center;
+}
+nav a{
+    padding: 15px;
+    padding-bottom: 4px;
+    font-size: 1.8em;
+    text-decoration: none;
+    color: white;
+}
+nav a:hover {
+    border-bottom: 2px lightblue solid;
+    font-size: 2em;
+    transition: .9s;
+}
+#picture, #welcome{
+    float: left;
+    text-align: left;
+}
+footer{
+    clear: left;
+    color: lightblue !important;
+    font-size: 12px;
+}
+table{
+    margin: 0px auto;
+}
+td{
+    padding-right: 10px;
+    font-size: 1.3em;
+    background-color: #8B4513;
+}
+td strong{
+    color: orange;
+}
+ul{
+    padding-left: 500px;
+}
+.hobby{
+    color: cyan;
+}
