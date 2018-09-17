@@ -4,13 +4,13 @@
         <title>Class CST336</title>
         
     </head>
-    <bodyy>
+    <body>
         <header>
             <h1>CST 336 Fall 2018</h1>
-            <a href = "Homework"><strong>Homework</strong></a>
+            <a href = "Homework"><strong><h2>Homework</h2></strong></a>
             <br >
-            <a href = "Labs"><strong>Labs</strong></a>
+            <a href = "Labs"><strong><h2>Labs</h2></strong></a>
             
         </header>
-    </bodyy>
+    </body>
 </html>
