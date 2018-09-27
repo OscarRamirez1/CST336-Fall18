@@ -38,6 +38,7 @@
                     <h2><strong>Homework</strong></h2>
                     
                     <a href = "./Homework/HW 1 - Alan Turing"><strong><h3>Homework 1 - Alan Turing</h3></strong></a>
+                    <a href = "./Homework/HW 2 - Race Car Gen."><strong><h3>Homework 2 - Race Car Generator</h3></strong></a>
             
                 </div>
                 

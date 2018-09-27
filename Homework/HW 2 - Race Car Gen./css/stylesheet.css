@@ -1,0 +1,42 @@
+h1{
+    color: cyan;
+    text-align: center;
+}
+.cars{
+    width: 1200px;
+    height: 600px;
+}
+main{
+    background-color: black;
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+h2{
+    color: red;
+}
+body{
+    background-color: black;
+}
+div{
+    padding-left: 150px;
+    color: red;
+}
+input{
+    color: black;
+    background-color: red;
+    border-color: red;
+    width: 150px;
+    height: 50px;
+}
+.emblem{
+    width: 100px;
+    height: 75px;
+}
+hr{
+    height: 10px;
+}
+h3{
+    color: red;
+}
