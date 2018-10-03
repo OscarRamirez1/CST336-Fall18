@@ -52,6 +52,7 @@
                     
                     <a href = "./Labs/Lab 1 - Portfolio"><strong><h3>Lab 1 - Portfolio</h3></strong></a>
                     <a href = "./Labs/Lab 2 - Slot Machine"><strong><h3>Lab 2 - Slot Machine</h3></strong></a>
+                    <a href = "./Labs/Lab 3 - Silverjack"><strong><h3>Lab 3 - Silverjack</h3></strong></a>
                     
                 </div>
             
